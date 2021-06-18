@@ -7,7 +7,7 @@ If successful, the server will respond with a json object with a single key valu
 The value is a string made up of every third character in the original string.
 
 ## Start the app
-  - Fork the repository
+  - Clone the repository in your local environment
   - Run the app on localhost by typing the following into the command line: `node routes/index.js`
 
 ## Routes
